@@ -1,0 +1,13 @@
+{
+  "contracts": {},
+  "tests": {
+    "tests/test_aave_borrow.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "7509d9b2bc788d8eb35b7f941fda6f6402beb492",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
